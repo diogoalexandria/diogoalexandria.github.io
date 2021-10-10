@@ -14,16 +14,25 @@ header p {
 }
 
 main {
-    height: 70vh;
+    height: 68vh;
+    margin-top: 2vh;
+}
+
+main h3 {
+    margin-left: 4%;
+}
+
+main h1 {
+    margin-left: 5%;
 }
 
 footer {
-    height: 12vh;
+    height: 5vh;
     display: flex;
     justify-content: start;
 }
 
 footer p {
-    margin-top: 8%;
+    margin-top: 8vh;
     margin-left: 1%;
 }
